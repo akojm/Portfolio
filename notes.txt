@@ -1,0 +1,13 @@
+
+** Installer bootstrap **
+CDN : taper dans google " bootstrap Doc "
+
+Telecharger le framework :
+1 - Telecherger Node.js ( npm inclus dans le telechergement )
+2 - Sur le le projet , initialiser Nodejs 
+    A - nmp init -y
+    B - nmp i bootstrap
+
+    Package - lockjson **** ne jamais toucger **
+
+    Integrer notre page css apres le cdn de bootstrap ou paufiner notre ^propre reglage.
